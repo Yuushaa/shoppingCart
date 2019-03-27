@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Milly",
+        "email": "algo1@mail.com",
+        "pass": "pass",
+        "isOwner": false
+    },
+    {
+        "id": 2,
+        "name": "Victor",
+        "email": "algo2@mail.com",
+        "pass": "pass",
+        "isOwner": false
+    },
+    {
+        "id": 3,
+        "name": "Armando",
+        "email": "algo3@mail.com",
+        "pass": "pass",
+        "isOwner": true
+    },
+    {
+        "id": 4,
+        "name": "Francisco",
+        "email": "algo4@mail.com",
+        "pass": "pass",
+        "isOwner": true
+    },
+    {
+        "id": 5,
+        "name": "Eduardo",
+        "email": "algo5@mail.com",
+        "pass": "pass",
+        "isOwner": true
+    }
+]

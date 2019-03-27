@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "name": "La Toscana, GDL",
+        "address": "Somewhre st. #1",
+        "img": "https://www.100ladrillos.com/static/media/LaToscana-3.ece61415.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "Entorno S, PVT",
+        "address": "Somewhre st. #2",
+        "img": "https://www.100ladrillos.com/static/media/entorno-s.a2197279.jpg"
+    },{
+        "id": 3,
+        "name": "Sonata (Oficinas), GDL",
+        "address": "Somewhre st. #3",
+        "img": "https://www.100ladrillos.com/static/media/sonata-sin-logos.1e27008d.png"
+    }
+]

@@ -1,0 +1,22 @@
+app.get('/createUsers', (req, res) => {
+    const userController = new UsersController();
+    res.send(userController.createUsers());
+});
+
+app.get('/getUsers', (req, res) => {
+    const userController = new UsersController();
+    userController.getUsers(res);
+});
+
+app.get('/getUser/:id', (req, res) => {
+    const id = req.params.id;
+    const userController = new UsersController();
+    userController.getUser(res, id);
+});
+
+app.get('/changeUser/:id/:name', (req, res) => {
+    const id = req.params.id;
+    const name = req.params.name;
+    const userController = new UsersController();
+    userController.changeUser(res, id, name);
+});

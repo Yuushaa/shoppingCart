@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "couponString": "VIC1",
+        "value": 1,
+        "isUsed":false
+    },
+    {
+        "id": 2,
+        "couponString": "VIC10",
+        "value": 10,
+        "isUsed":false
+    },
+    {
+        "id": 3,
+        "couponString": "VIC100",
+        "value": 100,
+        "isUsed":false
+    },
+    {
+        "id": 4,
+        "couponString": "VIC1000",
+        "value": 1000,
+        "isUsed":false
+    },
+    {
+        "id": 5,
+        "couponString": "VIC10000",
+        "value": 10000,
+        "isUsed":false
+    }
+]
